@@ -1,6 +1,6 @@
 {
-    "short_name": "Gas kiosk",
-    "name": "Gas kiosk PWA",
+    "short_name": "AutoMon",
+    "name": "Home Automation and Monitoring PWA",
     "icons":[
         {
             "src": "/images/logo.png",
